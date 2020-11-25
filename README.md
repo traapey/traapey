@@ -1,4 +1,4 @@
-### Hey 👋, Sou eu o SadBoyz
+### Hey 👋, sou eu o Traapey
 <a href="https://www.instagram.com/yarkann_">
   <img align="left" alt="Yarkan Traapey" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
