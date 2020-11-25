@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey 👋, Sou eu o SadBoyz
+<a href="https://www.instagram.com/yarkann_">
+  <img align="left" alt="Yarkan Traapey" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<!--
-**traapey/traapey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
+Olá, me chamo **Yarkan**, Estudante à Engenharia da Computação **  Sou apenas um garoto de 18 anos que sonha se tornar um grande **Desenvolvedor** em um futuro próximo  :rocket: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Sobre Mim:**
+
+- 👨🏽‍💻 Atualmente me dedico ao uso do JavaScript e HTML;
+- 🌱 Atualmente, estou me aprofundando ao uso do JavaScript e sempre aprendendo mais.; 
+- 🤔 Meus interesses são o Entendimento da Linguagem Natural, Visão computacional, Aprendizagem por Reforço e etc ...;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
